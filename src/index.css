@@ -1,0 +1,10 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Add this to your Tailwind CSS file or your custom styles */
+.active-link {
+  background-color: #4a5568; /* Adjust the background color as needed */
+  color: #ffffff; /* Adjust the text color as needed */
+  /* padding: 5px; */
+}
